@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "DomainNetFS"
+  SOURCE_DOMAINS: ["clipart", "infograph", "painting", "quickdraw", "real"]
+  TARGET_DOMAINS: ["sketch"]
+  ID: 0

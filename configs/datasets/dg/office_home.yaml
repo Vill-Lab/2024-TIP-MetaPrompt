@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "OfficeHomeFS"
+  SOURCE_DOMAINS: ["art", "clipart", "product"]
+  TARGET_DOMAINS: ["real_world"]
+  ID: 0

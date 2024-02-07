@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "VLCSFS"
+  SOURCE_DOMAINS: ["caltech", "labelme", "pascal"]
+  TARGET_DOMAINS: ["sun"]
+  ID: 0

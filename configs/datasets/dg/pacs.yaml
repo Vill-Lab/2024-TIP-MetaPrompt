@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "PACSFS"
+  SOURCE_DOMAINS: ["art_painting", "cartoon", "photo"]
+  TARGET_DOMAINS: ["sketch"]
+  ID: 0
