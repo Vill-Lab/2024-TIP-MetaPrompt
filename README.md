@@ -1,4 +1,4 @@
-# Learning Domain Invariant Prompt for Vision-Language Models (Trans on Image Processing)
+# Learning Domain Invariant Prompt for Vision-Language Models (TIP)
 
 
 
@@ -32,7 +32,7 @@ Results reported below show average accuracy for base and new classes across 11 
 | [CoOp](https://arxiv.org/abs/2109.01134)           |       82.69       |       63.22       |       71.66       |
 | [CoCoOp](https://arxiv.org/abs/2203.05557)         |       80.47       |       71.69       |       75.83       |
 | [MaPLe](https://arxiv.org/abs/2210.03117)          |       82.28       |       75.14       |       78.55       |
-| [MetaPrompt](https://arxiv.org/pdf/2212.04196.pdf) | **84.32 (+2.04)** | **76.86 (+1.72)** | **80.23 (+1.68)** |
+| [MetaPrompt](https://arxiv.org/pdf/2212.04196.pdf) | **83.38 (+1.10)** | **76.09 (+0.95)** | **79.57 (+1.02)** |
 
 ### Domain Generalization
 
